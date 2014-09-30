@@ -1,0 +1,9 @@
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\bin\Debug\PersonAppUsingSetGet.exe.config
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\bin\Debug\PersonAppUsingSetGet.exe
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\bin\Debug\PersonAppUsingSetGet.pdb
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\obj\Debug\PersonAppUsingSetGet.csprojResolveAssemblyReference.cache
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\obj\Debug\PersonAppUsingSetGet.PersonAppUI.resources
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\obj\Debug\PersonAppUsingSetGet.Properties.Resources.resources
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\obj\Debug\PersonAppUsingSetGet.csproj.GenerateResource.Cache
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\obj\Debug\PersonAppUsingSetGet.exe
+F:\PRACTICS\PersonAppUsingSetGet\PersonAppUsingSetGet\obj\Debug\PersonAppUsingSetGet.pdb
